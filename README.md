@@ -1,4 +1,4 @@
-### Oi eu sou Otavio, estudante de desenvolvimento web full stack na Trybe :)
+### Oii eu sou Otavio, estudante de desenvolvimento web full stack na Trybe :)
 
 <div>
   <a href="https://github.com/OtavioRL">
