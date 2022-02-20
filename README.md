@@ -1,4 +1,4 @@
-### Oii eu sou Otavio, estudante de desenvolvimento web full stack na Trybe :)
+### Olá eu sou Otavio, atualmente estudo desenvolvimento web full stack na Trybe :) Aqui vão algumas estatísticas sobre minha trajetória até agora:
 
 <div>
   <a href="https://github.com/OtavioRL">
