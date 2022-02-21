@@ -1,4 +1,4 @@
-### Olá eu sou Otavio, atualmente estudo desenvolvimento web full stack na Trybe :) Aqui vão algumas estatísticas sobre minha trajetória até agora:
+### Olá eu sou Otavio, atualmente estudo na Trybe :) Aqui vão algumas estatísticas sobre minha trajetória até agora:
 
 <div>
   <a href="https://github.com/OtavioRL">
