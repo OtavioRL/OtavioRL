@@ -1,4 +1,4 @@
-### Olá eu sou Otavio, desenvolvedor fullstack atualmente no ultimo módulo da trybe :) Aqui vão algumas estatísticas sobre minha trajetória até agora:
+### Olá eu sou Otavio, desenvolvedor fullstack atualmente no ultimo módulo de desenvolvimento web na Trybe :) Aqui vão algumas estatísticas sobre minha trajetória até agora:
 
 <div>
   <a href="https://github.com/OtavioRL">
