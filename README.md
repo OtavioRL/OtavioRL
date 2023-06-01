@@ -2,7 +2,7 @@
 
 ## My name is Otavio and I'm a Brazilian fullstack web developer. I always loved computers and technology, so I decided to pursue a web developer career and I love what I do.
 
-## Here are some of the technologies that i work with:
+### Here are some of the technologies that i work with:
 [![My Skills](https://skills.thijs.gg/icons?i=js,ts,py,html,css,tailwind,react,nextjs,nodejs,mysql,mongodb,docker,git)](https://skills.thijs.gg)
   
 <div>
